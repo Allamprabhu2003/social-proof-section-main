@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [View solution](https://github.com/Allamprabhu2003/social-proof-section-main)
+- Live Site URL: [View site](https://laughing-johnson-1b17ac.netlify.app/)
 
 ## My process
 
